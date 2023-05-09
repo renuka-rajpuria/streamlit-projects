@@ -1,3 +1,7 @@
+# Remember
+
+To run streamlit an Anaconda **environment** is preferred and write the command to run the application in the environment terminal only.
+
 # Project Snapshots
 
 ## Project - 1 - Simple Stock Graph
